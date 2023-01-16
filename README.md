@@ -8,6 +8,7 @@ alt="Canada Flag">
 <h2>1. Indeginous Canadians</h2>
 <img src="https://d3d0lqu00lnqvz.cloudfront.net/media/media/923baa84-0947-48c8-b6ea-2c78927947dc.jpg"
 alt="Indeginous People">
+
 <ul>
     <li>Indigenous children were taken to residential schools, where their cultures were destroyed.</li>
     <li>Land was taken away from the indigenous people. </li>
@@ -20,6 +21,7 @@ alt="Indeginous People">
 <h2>2. South Asian Canadians</h2>
 <img src="https://www.southasiancanadianheritage.ca/wp-content/uploads/2019/02/Beant-Dhaliwal-with-Paul-Dhaliwal-family-pic.jpg-3.jpg"
 alt="South Asian"
+
 <ul>
     <li>Limit the amount of immigrants. </li>
     <li>You are only allowed into canada if you made a continuous journey. Which was impossible.</li>
@@ -44,6 +46,7 @@ alt="African Japanese Canadians"
 <h2>4. Japanese Canadians</h2>
 <img src="https://i1.wp.com/media.globalnews.ca/videostatic/news/lpd8emoskg-n9znvzajha/web_JAPANESE_CANADIAN_INTERNMENT_NAGAI_.jpg?w=1040&quality=70&strip=all"
 alt="Japanese Canadians"
+
 <ul>
     <li>Japanese Canadians faced a lot of racism</li>
     <li>Left their families to fight for war and jobs.</li>
@@ -54,6 +57,7 @@ alt="Japanese Canadians"
 <h2>5. Chinese Canadians</h2>
 <img src="https://www.rcinet.ca/patrimoine-asiatique-en/wp-content/uploads/sites/26/2012/05/Pic-1-c068863-ch-3.jpg"
 alt="Chinese Canadian">
+
 <ul>
     <li>For a long time, they were not accepted as citizens and were unable to vote.</li>
     <li>There has been a violent racist attack to Chinese Canadians.</li>
