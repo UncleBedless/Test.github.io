@@ -1,5 +1,5 @@
 # Test.github.io
-Test
+
 <h1>Hardships of different groups in Canada</h1>
 <p>THe image might sometimes be big and sometimes be small, it doesn't mean anything. It just that I'm too lazy to change the image size</p>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Flag_of_Canada_%28Pantone%29.svg/1200px-Flag_of_Canada_%28Pantone%29.svg.png"
@@ -63,4 +63,4 @@ alt="Chinese Canadian">
     <li>Low salaries</li>
 </ul>
 
-<button type="button" onclick="alert('This text is sponsored by SkyBOSS. more information at SkyBOSS.io')">Sponsorship</button>
+<h1>The End!</h1>
